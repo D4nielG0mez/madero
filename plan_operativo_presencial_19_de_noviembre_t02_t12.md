@@ -28,7 +28,7 @@
 ## 2. Checklist operativo paso a paso
 
 ### Bloque A: Diagnóstico y levantamiento en sitio (`T02` – `T04`)
-- [ ] **`T02` – Registrar los 27 endpoints únicos:**
+- [x] **`T02` – Registrar los 27 endpoints únicos:**
   - [ ] Sistema operativo y compilación (*build*).
   - [ ] Procesador, memoria RAM y espacio libre en disco.
   - [ ] Usuario asignado, área y nivel de criticidad operativa.
